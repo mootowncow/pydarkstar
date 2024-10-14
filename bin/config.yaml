@@ -21,11 +21,10 @@ password: boots1138
 fail: true
 
 # broker
-restock: 3600
-tick: 30
-
+restock: 24800
+tick: 24850
 # scrub
 itemids: []
-stock01: 5
+stock01: 50
 stock12: 5
 urls: []
